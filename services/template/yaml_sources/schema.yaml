@@ -1,0 +1,12 @@
+option:
+
+  __schemas:
+    all: OptionSchema
+
+  key:
+    mandatory: True
+    type: str
+
+  value:
+    mandatory: True
+    type: str
